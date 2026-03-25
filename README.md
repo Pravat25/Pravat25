@@ -5,7 +5,7 @@ Focused on Network Security & SOC Analysis
 
 ---
 
-## 🚀 Key Projects
+##  Key Projects
 - Cybersecurity Dashboard (SOC simulation)
 - Packet Sniffer (Network traffic analysis)
 - Threat Intelligence Checker
