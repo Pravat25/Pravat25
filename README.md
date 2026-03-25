@@ -1,9 +1,16 @@
 # Hi, I'm Prabhat Dahal 👋
 
-Cybersecurity Enthusiast | Python Developer | IT Graduate  
-Currently based in Canberra, Australia.
+Cybersecurity Enthusiast | Master's in IT  
+Focused on Network Security & SOC Analysis  
 
 ---
+
+## 🚀 Key Projects
+- Cybersecurity Dashboard (SOC simulation)
+- Packet Sniffer (Network traffic analysis)
+- Threat Intelligence Checker
+
+- --
 
 ## About Me
 
